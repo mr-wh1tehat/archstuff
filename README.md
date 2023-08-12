@@ -1,2 +1,2 @@
 # archstuff
-Scripts to semo-automate arch installation
+Scripts to semi-automate arch installation
